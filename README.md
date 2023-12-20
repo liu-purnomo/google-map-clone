@@ -63,7 +63,7 @@ To get started with Gooogle Maps Clone locally, follow these steps:
 ## Deployment
 
 Gooogle Maps Clone is deployed using Vercel. Any changes pushed to the main branch will trigger an automatic deployment.
-You can visit the live version of Home at [https://gmaps.liupurnomo.com](https://gmaps.liupurnomo.com).
+You can visit the live version of Home at [https://gmap.liupurnomo.com](https://gmap.liupurnomo.com).
 
 ## Contributing
 
